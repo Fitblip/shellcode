@@ -1,6 +1,6 @@
-shellcode
-=========
+Random Shellcode
+================
 
-A repository of my shellcode and utilities for writing it!
+A repo of random shellcode and some utilities I've developed to make life easier :-P.
 
-If you're just looking for the shellcode in ready-to-paste format, look at the shellcode.c files. 
+The actual annotated shellcode can be found in *.asm
